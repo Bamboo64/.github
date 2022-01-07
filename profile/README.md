@@ -5,7 +5,7 @@ First things first, please kindly *duck* off if you want to bombing on this proj
 ## Introduction
 Project Bamboo64, aka `bamboo` in manifest or `b64` for initial (should not be confused with Base64), is a CAF based Android distribution project with Pixel Experience as major styling. Initially built around Xiaomi Poco X3 with codename of `surya` or `karna`.
 
-## Get your hands in with development
+## Get your hands in development
 Check out [manifest repository](https://github.com/Bamboo64/manifest) to get started.
 
 ## Download for end users
